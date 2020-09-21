@@ -6,7 +6,7 @@
 /DataSet
 /datos_de_la_red_con_errores
 /GuardarPorSiAcaso
-
+/Datos_de_otras_versiones_de_redes
 #ignorar archivos h5, npy y mat
 
 *.h5
