@@ -1,3 +1,22 @@
+####### mi configuración
+
+#ignorar estas carpetas
+
+/data_for_non_cropped_database
+/DataSet
+/datos_de_la_red_con_errores
+/GuardarPorSiAcaso
+
+#ignorar archivos h5 y npy
+
+*.h5
+*.npy
+
+
+
+######### gitignore automático para python########
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
