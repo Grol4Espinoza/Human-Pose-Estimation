@@ -7,11 +7,11 @@
 /datos_de_la_red_con_errores
 /GuardarPorSiAcaso
 
-#ignorar archivos h5 y npy
+#ignorar archivos h5, npy y mat
 
 *.h5
 *.npy
-
+*.mat
 
 
 ######### gitignore automático para python########
